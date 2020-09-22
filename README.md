@@ -1,6 +1,6 @@
 ### Hi there, I'm Harsh Tyagi -Harroxx [harshtyagimdr][website] 👋
 
-[![Website](https://img.shields.io/website?label=Harshtyagimdr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://harshtyagi-portfolio.firebaseapp.com/)
+[![Website](https://img.shields.io/website?label=Harshtyagimdr&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://harshtyagi-portfolio.firebaseapp.com/)
 [![Linkedin Follow](https://img.shields.io/twitter/follow/HarshTyagi?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/harsh-tyagi-115019179/)
 
 ## I'm a Student, Designer, Developer, and Learner!
