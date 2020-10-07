@@ -100,3 +100,21 @@
 [reactNative]:https://reactnative.dev/
 [youtube]:https://www.youtube.com/channel/UCv63oQ42tu2ZSYG7VgjVx4g/
 [whatsapp]:https://bit.ly/2X6WEO5
+
+
+
+
+
+<a href="https://github.com/savagecarol">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshtyagimdr&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/savagecarol">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshtyagimdr&show_icons=true&theme=dark&line_height=27" alt="SavageCarol github stats"/>
+</a>
+
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
