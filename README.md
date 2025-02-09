@@ -3,12 +3,12 @@
 [![Website](https://img.shields.io/website?label=Harshtyagimdr&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://harshtyagi-portfolio.firebaseapp.com/)
 [![Linkedin Follow](https://img.shields.io/youtube/views/SExymfN_vvc?label=Youtube&style=for-the-badge)](https://www.youtube.com/channel/UCv63oQ42tu2ZSYG7VgjVx4g/)
 
-## I'm a Student, Designer, Developer, and Learner!
+## I'm a Engineer, Designer, Developer, and Learner!
 
-- 🔭 I’m currently working on a [React Native][reactNative]!
+- 🔭 I’m currently working on a React.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects and learn new Technologies
+- 🥅 2025 Goals: Contribute more to Open Source projects and learn new Technologies
 - ⚡ Fun fact: I love to devlop and play volleyball / chess
 
 
