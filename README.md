@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on a React.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: Contribute more to Open Source projects and learn new Technologies
+- 🥅 2026 Goals: Contribute more to Open Source projects and learn new Technologies
 - ⚡ Fun fact: I love to devlop and play volleyball / chess
 
 
